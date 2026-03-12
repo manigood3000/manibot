@@ -1,0 +1,2 @@
+# manibot
+bot de discordia
